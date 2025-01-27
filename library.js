@@ -1,5 +1,5 @@
 /** Inheritance and Error classes **/
-
+try{
 class AnalemmaManager {
 	constructor() {
 		this.config = {
@@ -1069,4 +1069,7 @@ class TransformationGrid extends AnalemmaHeirarchy{
             l.ts*=0.999
         }
     }
+}
+}catch(error){
+
 }
