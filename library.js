@@ -1070,4 +1070,4 @@ class TransformationGrid extends AnalemmaHeirarchy{
         }
     }
 }
-}
+
